@@ -1,0 +1,37 @@
+ANSWER:
+
+During my initial exploration of the data, I examined several descriptive statistics to gain insights into the Olympic athlete events dataset. I calculated key summary statistics such as total records, unique IDs, average age, minimum and maximum age, average height, minimum and maximum height, average weight, minimum and maximum weight. These statistics provided me with an overview of the distribution and characteristics of the data. By looking at these descriptive statistics, I could understand the range, central tendency, and variability of age, height, and weight among the athletes.
+
+2. Submit 2-3 key points you may have discovered about the data, e.g. new relationships? Aha's! Did you come up with additional ideas for other things to review?
+
+ANSWER:
+
+2.1. I discovered a positive trend in the number of athletes participating in the Olympics over the years. The total records indicated an increasing trend, suggesting a growing interest and participation in the Olympic Games.
+
+2.2. There were notable differences in the performance of male and female athletes across different sports. Certain sports showed a higher average age or weight for one gender compared to the other, indicating potential gender-specific trends or requirements in those sports.
+
+2.3. I observed variations in the height and weight of athletes across different sports. Some sports tended to have athletes with higher average heights and weights, which may be attributed to the specific physical requirements of those sports.
+
+3. Did you prove or disprove any of your initial hypotheses? If so, which one and what do you plan to do next?
+
+ANSWER:
+
+3.1. The hypothesis about an increasing trend in the number of participating athletes was supported by the observation of a positive trend in total records over time.
+
+3.2. The assumption of gender-based performance differences in sports was confirmed through the identification of varying average age, weight, and height across different sports for male and female athletes.
+
+## 4. What additional questions are you seeking to answer?
+
+ANSWER:
+
+Moving forward, I plan to dive deeper into the data to answer additional questions and explore new relationships. Some of the questions I seek to answer include:
+
+4.1. How do the performance metrics (age, height, weight) vary across different sports and countries?
+
+4.2. Are there specific countries dominating in certain sports consistently?
+
+4.3. Are there any correlations between an athlete's physical attributes (height, weight) and their performance or medal outcomes?
+
+
+By further analyzing the data and conducting additional exploratory analyses, I aim to uncover more insights, identify patterns, and validate my initial findings.  
+

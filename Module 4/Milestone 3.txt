@@ -1,0 +1,57 @@
+Relationships and Correlations:
+
+Using Pearson correlation, I can identify relationships between numeric variables in the dataset. For example, I can calculate the correlation between age and the number of medals won, or between height and weight. This will help me understand the strength and direction of the linear relationship between these variables.
+
+Correlation 1: Age and Number of Medals Won
+
+Fields: Age, Number of Medals Won
+
+Description: I found a positive correlation between an athlete's age and the number of medals they won. This suggests that older athletes may have a higher likelihood of winning medals, indicating the potential influence of experience and skill accumulated over time.
+
+Correlation 2: Height and Weight
+
+Fields: Height, Weight
+
+Description: There is a positive correlation between an athlete's height and weight. Taller athletes tend to have higher weights, which aligns with expectations considering the relationship between height and body mass. This correlation can be attributed to the natural physical development of individuals.
+
+Linear Regression: 
+
+If I find a strong linear relationship between two variables, such as age and the number of medals won, I can perform linear regression to predict future medal counts based on age. This can provide insights into the potential impact of age on an athlete's performance in future Olympic events.
+
+Textual Analysis: 
+
+While the Olympic athlete events dataset primarily consists of numeric data, I can explore textual analysis if additional text fields are available. For example, if there is a field containing athlete biographies or descriptions, I can perform TF-IDF analysis to extract key terms, identify themes, or uncover patterns in the textual data.
+
+ 
+
+Go Broader 
+
+Expand the features you are investigating. Look for connections/relationships that you may have initially missed.
+
+What jumps out at you now?
+
+Use the descriptive stats to point you to features that you may now want to consider.
+
+What key terms did you discover in any text analysis, for whom? Any themes? If you are not analyzing text, summarize what other things you are considering in your analysis?
+
+ANSWER:
+
+  Upon further analysis and considering the descriptive statistics, the following features jump out as worth exploring:
+
+Nationality (NOC): Understanding the relationship between an athlete's nationality and their performance in specific sports or events can provide insights into dominant countries and their historical trends in particular sports. This analysis can shed light on the factors contributing to success in different nations.
+
+Performance Index: Creating a comprehensive metric that combines age, height, and weight, weighted based on their correlation with medal outcomes, can offer a more holistic evaluation of an athlete's potential performance. This index can provide a standardized measure to compare athletes across various disciplines.
+
+
+New Metric
+
+Create 1 or 2 new metrics to track relationships of data you discovered. Explain why you created them.
+
+ANSWER:
+
+Since the Olympic athlete events dataset primarily consists of numerical data, no specific key terms were discovered from textual analysis in this context. However, I will consider other factors such as team dynamics, event conditions, historical context, and potentially explore additional textual data sources if available, to further enrich the analysis and gain a deeper understanding of the data.
+
+ Based on the relationships and correlations I discover, I can create new metrics to track and evaluate specific data relationships. For example, I can calculate a "Performance Index" by combining an athlete's age, height, and weight, assigning weights to each factor based on their correlation with medal outcomes. This new metric can provide a comprehensive measure of an athlete's potential performance.  
+
+In summary, the analysis will extend beyond just numerical correlations and explore broader aspects like nationality, performance index, and other contextual factors to gain comprehensive insights into the Olympic athlete events dataset.
+
